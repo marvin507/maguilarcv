@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22db08"],{f921:function(c,d,e){"use strict";e.r(d);var n=e("7a23");const t=Object(n["z"])("data-v-79c47750"),a=t((c,d,e,t,a,u)=>(Object(n["p"])(),Object(n["d"])("div",null," Educación ")));var u={setup(){return{}}};u.render=a,u.__scopeId="data-v-79c47750";d["default"]=u}}]);
+//# sourceMappingURL=chunk-2d22db08.27ad39a6.js.map
